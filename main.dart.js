@@ -54895,7 +54895,7 @@ n=b.a4(n).f
 s=$.hv()
 r=new T.h7(o)
 q=t.E
-return M.cp(p,T.Na(T.Nz(H.a([new D.pT(H.a([new M.v1(C.aC,o,C.a4,s.b.Y6(C.ad,C.a8),new P.aG(C.h.ap(1e5*(r.gl(r)+8))),new T.h7(o))],t.rr),C.bF,!0,!0,1,p),M.cp(p,p,p,p,8,p,p,p),L.cR("Mobile, Web and Backend Developer",s.e.da(C.ad),p,p),M.cp(p,p,p,p,8,p,p,p),T.abx(H.a([R.rk(!1,!0,U.Ar("images/facebook.png",C.ad,30,30),p,!0,p,p,p,p,p,p,p,p,p,new N.a30(),p),M.cp(p,p,p,p,p,p,p,16),R.rk(!1,!0,U.Ar("images/linked_in.png",C.ad,30,30),p,!0,p,p,p,p,p,p,p,p,p,new N.a31(),p),M.cp(p,p,p,p,p,p,p,16),R.rk(!1,!0,U.Ar("images/github.png",C.ad,30,p),p,!0,p,p,p,p,p,p,p,p,p,new N.a32(),p),M.cp(p,p,p,p,p,p,p,16),R.rk(!1,!0,U.Ar("images/gmail_logo.png",C.ad,30,p),p,!0,p,p,p,p,p,p,p,p,p,new N.a33(),p)],q),C.dF)],q),C.db,C.dF),p,p),C.m4,p,m.a.b,p,C.eH,n.a.b)}}
+return M.cp(p,T.Na(T.Nz(H.a([new D.pT(H.a([new M.v1(C.aC,o,C.a4,s.b.Y6(C.ad,C.a8),new P.aG(C.h.ap(1e5*(r.gl(r)+8))),new T.h7(o))],t.rr),C.bF,!0,!0,1,p),M.cp(p,p,p,p,8,p,p,p),L.cR("",s.e.da(C.ad),p,p),M.cp(p,p,p,p,8,p,p,p),T.abx(H.a([R.rk(!1,!0,U.Ar("images/facebook.png",C.ad,30,30),p,!0,p,p,p,p,p,p,p,p,p,new N.a30(),p),M.cp(p,p,p,p,p,p,p,16),R.rk(!1,!0,U.Ar("images/linked_in.png",C.ad,30,30),p,!0,p,p,p,p,p,p,p,p,p,new N.a31(),p),M.cp(p,p,p,p,p,p,p,16),R.rk(!1,!0,U.Ar("images/github.png",C.ad,30,p),p,!0,p,p,p,p,p,p,p,p,p,new N.a32(),p),M.cp(p,p,p,p,p,p,p,16),R.rk(!1,!0,U.Ar("images/gmail_logo.png",C.ad,30,p),p,!0,p,p,p,p,p,p,p,p,p,new N.a33(),p)],q),C.dF)],q),C.db,C.dF),p,p),C.m4,p,m.a.b,p,C.eH,n.a.b)}}
 N.a30.prototype={
 $0:function(){T.pE("https://www.facebook.com/phungitienthanh/")},
 $S:0}
